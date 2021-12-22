@@ -1,0 +1,11 @@
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\bin\Debug\netcoreapp2.2\Employee.Core.deps.json
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\bin\Debug\netcoreapp2.2\Employee.Core.dll
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\bin\Debug\netcoreapp2.2\Employee.Core.pdb
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\obj\Debug\netcoreapp2.2\Employee.Core.csprojAssemblyReference.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\obj\Debug\netcoreapp2.2\Employee.Core.Resources.EmployeeServiceResources.EmpMessages.resources
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\obj\Debug\netcoreapp2.2\Employee.Core.csproj.GenerateResource.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\obj\Debug\netcoreapp2.2\Employee.Core.AssemblyInfoInputs.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\obj\Debug\netcoreapp2.2\Employee.Core.AssemblyInfo.cs
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\obj\Debug\netcoreapp2.2\Employee.Core.csproj.CoreCompileInputs.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\obj\Debug\netcoreapp2.2\Employee.Core.dll
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Core\obj\Debug\netcoreapp2.2\Employee.Core.pdb

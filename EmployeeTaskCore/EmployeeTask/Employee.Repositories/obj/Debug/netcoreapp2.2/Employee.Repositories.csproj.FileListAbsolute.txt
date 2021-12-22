@@ -1,0 +1,12 @@
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\bin\Debug\netcoreapp2.2\Employee.Repositories.deps.json
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\bin\Debug\netcoreapp2.2\Employee.Repositories.dll
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\bin\Debug\netcoreapp2.2\Employee.Repositories.pdb
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\bin\Debug\netcoreapp2.2\Employee.Data.dll
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\bin\Debug\netcoreapp2.2\Employee.Data.pdb
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\obj\Debug\netcoreapp2.2\Employee.Repositories.csprojAssemblyReference.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\obj\Debug\netcoreapp2.2\Employee.Repositories.AssemblyInfoInputs.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\obj\Debug\netcoreapp2.2\Employee.Repositories.AssemblyInfo.cs
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\obj\Debug\netcoreapp2.2\Employee.Repositories.csproj.CoreCompileInputs.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\obj\Debug\netcoreapp2.2\Employee.Repositories.csproj.CopyComplete
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\obj\Debug\netcoreapp2.2\Employee.Repositories.dll
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.Repositories\obj\Debug\netcoreapp2.2\Employee.Repositories.pdb

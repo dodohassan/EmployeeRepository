@@ -1,0 +1,9 @@
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.ViewModels\bin\Debug\netcoreapp2.2\Employee.ViewModels.deps.json
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.ViewModels\bin\Debug\netcoreapp2.2\Employee.ViewModels.dll
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.ViewModels\bin\Debug\netcoreapp2.2\Employee.ViewModels.pdb
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.ViewModels\obj\Debug\netcoreapp2.2\Employee.ViewModels.csprojAssemblyReference.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.ViewModels\obj\Debug\netcoreapp2.2\Employee.ViewModels.AssemblyInfoInputs.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.ViewModels\obj\Debug\netcoreapp2.2\Employee.ViewModels.AssemblyInfo.cs
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.ViewModels\obj\Debug\netcoreapp2.2\Employee.ViewModels.csproj.CoreCompileInputs.cache
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.ViewModels\obj\Debug\netcoreapp2.2\Employee.ViewModels.dll
+D:\Tasks\EmployeeTaskCore\EmployeeTask\Employee.ViewModels\obj\Debug\netcoreapp2.2\Employee.ViewModels.pdb
